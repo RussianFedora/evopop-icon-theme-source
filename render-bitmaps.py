@@ -9,7 +9,7 @@ import subprocess
 
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
-MAINDIR = 'EvoPop'
+MAINDIR = 'EvoPop-0.7'
 SOURCES = ('src/bitmaps/apps', 'src/bitmaps/categories', 'src/bitmaps/devices', 'src/bitmaps/emblems', 'src/bitmaps/mimetypes', 'src/bitmaps/places', 'src/bitmaps/status')
 
 inkscape_process = None
